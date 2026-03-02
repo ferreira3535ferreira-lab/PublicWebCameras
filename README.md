@@ -51,3 +51,4 @@ More u can find here: https://www.ispyconnect.com/userguide-default-passwords.as
 All of these cameras were found using googl dorks. Here u can read som of them: https://gist.github.com/shagunattri/094dad672d62407fd1f28f1ea780d00a
 ### Credits
 Some of the cameras were found by ```Paces7552#3438```
+Cantagalo RJ 
